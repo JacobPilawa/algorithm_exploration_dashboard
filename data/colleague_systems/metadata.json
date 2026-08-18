@@ -1,0 +1,26 @@
+{
+  "input": "data/data_jpar_v2/source_of_truth_calculation_df.csv",
+  "usable_rows": 3382,
+  "events": 49,
+  "people": 1224,
+  "systems": {
+    "external_logtime": "Log-Time Volatility",
+    "external_logtime_conservative": "Log-Time Volatility (Conservative)",
+    "external_logtime_no_tier": "Log-Time Volatility (No Tier Boost)",
+    "external_bayesian": "Bayesian Skill Mu",
+    "external_bayesian_conservative": "Bayesian Skill (Conservative)",
+    "external_nationals": "Nationals-Constrained Log-Time"
+  },
+  "vendor_source_commit": "3141f455db2fec91567c1c0b7eb620f6afba6201",
+  "nationals_events_detected": [
+    "2025 USA Jigsaw Nationals Prelim A",
+    "2025 USA Jigsaw Nationals Prelim B",
+    "2025 USA Jigsaw Nationals Prelim C",
+    "2025 USA Jigsaw Nationals Finals",
+    "2026 USA Jigsaw Nationals Individual Prelim A",
+    "2026 USA Jigsaw Nationals Individual Prelim B",
+    "2026 USA Jigsaw Nationals Individual Prelim C",
+    "2026 USA Jigsaw Nationals Individual Prelim D",
+    "2026 USA Jigsaw Nationals Individual Final"
+  ]
+}
